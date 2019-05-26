@@ -24,11 +24,11 @@ Specify IDs of the videos as the first arguments of the `trial()` function in `m
 #### Output
 Generated output is a mat file `videoN_obsM.mat` with one 3D variable of the size `frames x rounds x 2` (250 x 5 x 2 for us) :
 ``` matlab
-out(frame, round, 1) = x;
-out(frame, round, 2) = y; 
+x = out(frame, round, 1);
+y = out(frame, round, 2); 
 ```
  
- `x` and `y` are mouse coordinates when button is pressed and zeros otherwise.
- </br> </br> </br>  </br>
+ `x` and `y` are mouse coordinates (in the screen's coordinate system) when button is pressed and zeros otherwise.
+ </br> </br> </br> </br>
  ![experiemntal](readme_imgs/fig3.jpg)
  ## Good luck in your work ~
