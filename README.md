@@ -1,6 +1,6 @@
 # Are all the frames equally important?
 Supporting code to the paper [O. Sidorov, M. Pedersen, N. W. Kim, S. Shekhar "Are all the frames equally important?](https://arxiv.org/abs/1905.07984)
- </br> </br>  </br>
+ </br> </br> 
 ![preview](readme_imgs/fig4.jpg)
 
 ### Geting started 
