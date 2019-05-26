@@ -1,6 +1,6 @@
 # Are all the frames equally important?
 Supporting code to the paper [O. Sidorov, M. Pedersen, N. W. Kim, S. Shekhar "Are all the frames equally important?](https://arxiv.org/abs/1905.07984)
- </br> </br> 
+ </br> </br>  </br>
 ![preview](readme_imgs/fig4.jpg)
 
 ### Geting started 
@@ -29,6 +29,6 @@ out(frame, round, 2) = y;
 ```
  
  `x` and `y` are mouse coordinates when button is pressed and zeros otherwise.
- </br> </br> </br>
+ </br> </br> </br>  </br>
  ![experiemntal](readme_imgs/fig3.jpg)
  ## Good luck in your work ~
